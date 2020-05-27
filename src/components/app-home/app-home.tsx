@@ -23,6 +23,7 @@ export class AppHome {
         </p>
 
         <ion-button href="/profile/ionic" expand="block">Profile page</ion-button>
+        <my-first-component name="Deepak"></my-first-component>
       </ion-content>
     ];
   }

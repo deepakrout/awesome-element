@@ -2,11 +2,7 @@
     "name": "awesome-element",
     "private": true,
     "version": "0.0.1",
-    "module": "./dist/index.mjs",
     "description": "awesome-element",
-    "main": "dist/index.js",
-    "types": "dist/types/components.d.ts",
-    "collection": "dist/collection/collection-manifest.json",
     "license": "MIT",
     "files": [
         "dist/"

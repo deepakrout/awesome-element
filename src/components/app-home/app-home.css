@@ -1,3 +1,7 @@
-p {
-    color: red;
+app-home {
+    background-color: purple;
+}
+
+ion-content {
+    background-color: purple;
 }

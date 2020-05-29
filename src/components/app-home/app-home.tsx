@@ -14,7 +14,7 @@ export class AppHome {
           <ion-title>Home</ion-title>
         </ion-toolbar>
       </ion-header>,
-
+     // Why is this p color changing
       <ion-content class="ion-padding">
         <p>
           Welcome to the PWA Toolkit. You can use this starter to build entire
